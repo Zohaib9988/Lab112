@@ -71,6 +71,11 @@ void jgongo2_pkoby2_kseki3() {
     printf("We learned that commit and push are seperate operations. "
            "You can make multiple commmits before pushing to the repository.\n");
 }
+void ykoval2_zalvi2_jbenj2()
+{
+  printf("Yurii Koval, Zohaib Alvi, Jeremiah Benjamin\n");
+  printf("We learned that you can keep track of changes using git diff and git status.\n");
+}
 
 int main() {
   printf(
@@ -83,6 +88,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  ykoval2_zalvi2_jbenj2();
 
   return 0;
 }
